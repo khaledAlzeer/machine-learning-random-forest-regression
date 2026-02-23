@@ -12,7 +12,7 @@ The model uses:
 - n_estimators = 10 (number of trees)
 - random_state = 0 (for reproducibility)
 
-------------------------------------------------------------
+-------------------------------------------------------------
 
 📂 Dataset Description
 
